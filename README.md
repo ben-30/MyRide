@@ -1,2 +1,2 @@
 # MyRide
-Summer 2019 Project MyRide App
+Summer 2020 Project MyRide App
